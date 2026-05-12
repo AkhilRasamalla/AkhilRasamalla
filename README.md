@@ -4,65 +4,43 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:0EA5E9&height=240&section=header&text=Akhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20•%20DevOps%20•%20Automation&descAlignY=58&descSize=18" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:38bdf8&text=Akhil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20•%20DevOps%20•%20Automation&descAlignY=58&descSize=18" />
 
-<h1>Hi 👋, I'm Akhil</h1>
+<br/>
 
-<h3>
-Full-Stack Developer • Real-Time Systems • AI & DevOps Enthusiast
+<h1 align="center">Hi 👋, I'm Akhil</h1>
+
+<h3 align="center">
+Full-Stack Developer • Real-Time Systems • AI & DevOps
 </h3>
 
-<p>
-Building scalable web applications, interactive systems, and modern developer experiences.
+<p align="center">
+Building scalable web applications and modern developer experiences.
 </p>
 
-</div>
+<br/>
 
----
-
-<!-- ========================= -->
-<!--      TYPING ANIMATION     -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Real-Time+Applications;Exploring+AI+%2B+Automation;Learning+DevOps+%26+Cloud+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Building+Real-Time+Applications;Exploring+AI+%2B+Automation;Learning+DevOps+%26+Cloud" />
 
 </div>
 
 ---
-
-<!-- ========================= -->
-<!--         ABOUT ME          -->
-<!-- ========================= -->
 
 # 🚀 About Me
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-- 💻 Full-Stack Developer building scalable web applications  
-- ⚡ Focused on real-time systems and interactive experiences  
-- 🧠 Strong DSA foundation using C++  
-- ☁️ Exploring AI, DevOps, Automation, and Cloud Technologies  
-- 🎯 Open to internships, remote roles, and collaborations  
+| |
+|---|
+| 💻 Full-Stack Developer building scalable web applications |
+| ⚡ Focused on real-time systems and interactive experiences |
+| ☁️ Exploring AI, DevOps, Automation, and Cloud Technologies |
+| 🎯 Open to internships, remote roles, and collaborations |
+| 🧠 Strong DSA foundation using C++ |
 
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
-<!-- ========================= -->
-<!--       TECH STACK          -->
-<!-- ========================= -->
 
 # 🛠️ Tech Stack
 
@@ -70,54 +48,43 @@ Building scalable web applications, interactive systems, and modern developer ex
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c&theme=dark" />
 
----
+<br/><br/>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite&theme=dark" />
 
----
+<br/><br/>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-
----
+<br/><br/>
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,firebase,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,vercel&theme=dark" />
 
----
+<br/><br/>
 
-### 🤖 AI • Automation • Data Analytics
+### 🤖 AI • Automation
 
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,blender" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
 ---
-
-<!-- ========================= -->
-<!--     FEATURED PROJECTS     -->
-<!-- ========================= -->
 
 # 🔥 Featured Projects
 
@@ -147,16 +114,12 @@ AI-powered modern chat application with responsive UI.
 
 Interactive portfolio experience with modern 3D animations.
 
-**Tech Stack:** React • Three.js • TailwindCSS • Blender
+**Tech Stack:** React • Three.js • TailwindCSS
 
 🔗 [Live Demo](YOUR_LINK)  
 🔗 [GitHub Repository](YOUR_GITHUB_LINK)
 
 ---
-
-<!-- ========================= -->
-<!--      CODING PROFILES      -->
-<!-- ========================= -->
 
 # 💻 Coding Profiles
 
@@ -177,10 +140,6 @@ Interactive portfolio experience with modern 3D animations.
 </div>
 
 ---
-
-<!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
 
 # 🌐 Connect With Me
 
@@ -204,6 +163,6 @@ Interactive portfolio experience with modern 3D animations.
 
 <div align="center">
 
-### ⚡ From curiosity to contribution — always building, always learning.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,25:2563eb,50:7c3aed,75:1e293b,100:0f172a" />
 
 </div>
